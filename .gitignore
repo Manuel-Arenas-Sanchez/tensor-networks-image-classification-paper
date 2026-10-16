@@ -1,0 +1,18 @@
+# Archivos temporales de LaTeX
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.bcf
+*.run.xml
+# PDF compilado; los PDF de figures/ sí se versionan.
+/main.pdf
+/build/
+.DS_Store
